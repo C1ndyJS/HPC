@@ -1,0 +1,10 @@
+Ejecutado: matricesH2 - Tamaño: 100 - Iter: 1 - Hilos: 2 -> Tiempo: 0.007045
+Ejecutado: matricesH2 - Tamaño: 100 - Iter: 2 - Hilos: 2 -> Tiempo: 0.007855
+Ejecutado: matricesH2 - Tamaño: 100 - Iter: 3 - Hilos: 2 -> Tiempo: 0.004815
+Ejecutado: matricesH2 - Tamaño: 100 - Iter: 4 - Hilos: 2 -> Tiempo: 0.004662
+Ejecutado: matricesH2 - Tamaño: 100 - Iter: 5 - Hilos: 2 -> Tiempo: 0.003750
+Ejecutado: matricesH2 - Tamaño: 100 - Iter: 6 - Hilos: 2 -> Tiempo: 0.002735
+Ejecutado: matricesH2 - Tamaño: 100 - Iter: 7 - Hilos: 2 -> Tiempo: 0.003504
+Ejecutado: matricesH2 - Tamaño: 100 - Iter: 8 - Hilos: 2 -> Tiempo: 0.003562
+Ejecutado: matricesH2 - Tamaño: 100 - Iter: 9 - Hilos: 2 -> Tiempo: 0.003546
+Ejecutado: matricesH2 - Tamaño: 100 - Iter: 10 - Hilos: 2 -> Tiempo: 0.003719
