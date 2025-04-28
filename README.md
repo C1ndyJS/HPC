@@ -26,7 +26,7 @@ Obtener datos de rendimiento para comparar (por ejemplo, con otros algoritmos o 
 
 ```bash
 gcc -o matricesH2 programa.c -pthread
-
+```
 ## 🚀 Ejecución
 ```bash
 ./matricesH2 <tamaño_matriz> <número_hilos> <número_iteraciones>```
