@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/c1ndyjs/Documents/Materias/HPC/entrega1/Matrices",
-      "program": "/home/c1ndyjs/Documents/Materias/HPC/entrega1/Matrices/build/Debug/outDebug",
+      "cwd": "/home/c1ndyjs/Documents/Materias/HPC/reto_clase_presencial",
+      "program": "/home/c1ndyjs/Documents/Materias/HPC/reto_clase_presencial/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

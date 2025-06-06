@@ -27,11 +27,11 @@ Este proyecto corresponde a un laboratorio investigativo enfocado en la evaluaci
 ├── ejecutarOMP.zsh                # Script para pruebas automatizadas por consola
 ├── resultados/                    # CSVs generados con tiempo y rendimiento
 ├── openmp-matrix-bench/          # Perfil de test para Phoronix
-│   ├── openmp-matrix-bench.xml
-│   ├── openmp-matrix-bench.sh
-│   ├── openmp-matrix-bench.install
-│   ├── openmp-matrix-bench.json
-│   └── matriz_openmp.c
+│── openmp-matrix-bench.xml
+│── openmp-matrix-bench.sh
+│── openmp-matrix-bench.install
+│── openmp-matrix-bench.json
+│── matriz_openmp.c
 ├── graficas/                      # Imágenes o scripts para generar gráficos
 ├── documentos/                    # Informe final, PDF generado por Phoronix
 │   └── informe_laboratorio.pdf
